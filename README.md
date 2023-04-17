@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I`m Felipe Pazinatto! 👋
+
+🖥 Senior QA at [Clevertech](https://www.linkedin.com/company/clevertech/mycompany/)
+
+💼 Get to know more about me at [Linkedin](https://www.linkedin.com/in/felipepazinatto/)
+
 
 <!--
 **pazinattofelipe/pazinattofelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

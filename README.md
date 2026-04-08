@@ -1,7 +1,5 @@
 ### Hi there, I`m Felipe Pazinatto! 👋
 
-🖥 Senior QA at [Clevertech](https://www.linkedin.com/company/clevertech/mycompany/)
-
 💼 Get to know more about me at [Linkedin](https://www.linkedin.com/in/felipepazinatto/)
 
 

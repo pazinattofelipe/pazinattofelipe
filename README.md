@@ -1,4 +1,4 @@
-### Hi there, I`m Felipe Pazinatto! 👋
+### Hi there, I'm Felipe Pazinatto! 👋
 
 💼 Get to know more about me at [Linkedin](https://www.linkedin.com/in/felipepazinatto/)
 
